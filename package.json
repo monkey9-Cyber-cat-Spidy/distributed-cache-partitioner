@@ -1,0 +1,16 @@
+{
+  "name": "distributed-cache-partitioner",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "test": "node --test"
+  },
+  "keywords": [
+    "consistent-hashing",
+    "virtual-nodes",
+    "cache-partitioning",
+    "distributed-systems"
+  ],
+  "author": "Kuncham Venkata Satya Manikanta",
+  "license": "MIT"
+}
